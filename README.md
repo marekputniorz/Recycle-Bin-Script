@@ -1,2 +1,2 @@
 # Recycle-Bin-script-
-Simple BAT script for starting recycle bin in windows 10
+Simple BAT script for starting recycle bin in Windows 10
